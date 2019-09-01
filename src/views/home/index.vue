@@ -1,14 +1,11 @@
 <template>
-  <div class='home'>
-      hello word
+  <div >
+      home
   </div>
 </template>
 
 <script>
 export default {
-  name:'home',
-  components:{   
-  }
 
 }
 </script>
