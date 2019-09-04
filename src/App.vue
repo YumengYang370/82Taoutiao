@@ -3,5 +3,5 @@
     <router-view />
 </template>
 
-<style lang="less">
+<style lang="less" scopde>
 </style>
